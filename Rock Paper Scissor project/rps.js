@@ -70,10 +70,10 @@ function game(){
     }
     
     if(playerWins > computerWins){
-        console.log(`Player wins with a total of ${playerWins}`)
+        console.log(`Player wins with a total of ${playerWins}`);
     }
     else{
-        console.log(`Computer wins with a total of ${computerWins}`)
+        console.log(`Computer wins with a total of ${computerWins}`);
     }
        
 
